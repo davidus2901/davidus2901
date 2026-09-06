@@ -8,7 +8,6 @@ I'm Davidus, a web designer and developer
 
 - 🌐 Web Design and Development
 - 💻 Python, VSCode
-- 🤖 Discord Bots
 - 🌱 Exploring and learning Artificial Intelligence
 
 
