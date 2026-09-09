@@ -18,6 +18,7 @@ If you have any questions, suggestions, or would like to collaborate, feel free 
 
 -Email:
 davidus2901@gmail.com
+
 -Portofolio: https://davidus2901.github.io/DAVIDUS-Developer/
 
 Thank you for visiting my GitHub profile! I look forward to sharing knowledge and collaborating with others.
