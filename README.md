@@ -11,8 +11,11 @@ I'm Davidus, a developer and creative enthusiast focusing on web development & d
 # Skills 🛠️
 
 -🌐 Web Design and Development
+
 -🎨 Graphic Design
+
 -🎬 Video Editing
+
 
 
 ## Let's talk 📫
