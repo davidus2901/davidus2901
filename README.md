@@ -12,9 +12,9 @@ I'm Davidus, a developer and creative enthusiast focusing on web development & d
 
 -🌐 Web Design and Development
 
--🎨 Graphic Design
-
 -🎬 Video Editing
+
+-🎨 Graphic Design
 
 
 
