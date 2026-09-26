@@ -1,6 +1,6 @@
 ## Welcome to my GitHub profile! 🌟
 
-I'm Davidus, a web designer and developer, graphic designer and video editor.
+I'm Davidus, a developer and creative enthusiast focusing on web development & design, graphic design and video editing.
 
 
 
