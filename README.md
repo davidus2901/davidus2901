@@ -12,7 +12,7 @@ I'm Davidus, a web designer and developer, graphic designer and video editor.
 
 
 
-## Contact 📫
+## Let's talk 📫
 
 If you have any questions, suggestions, or would like to collaborate, feel free to reach out to me through the following contats:
 
