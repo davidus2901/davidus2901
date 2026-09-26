@@ -8,7 +8,7 @@ I'm Davidus, a developer and creative enthusiast focusing on web development & d
 
 
 
-# Skills 🛠️
+# My Skills 🛠️
 
 -🌐 Web Design and Development
 
