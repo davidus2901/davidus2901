@@ -7,7 +7,8 @@ I'm Davidus, a web designer and developer
 ## About Me 🙋‍♂️
 
 - 🌐 Web Design and Development
-- 💻 Python, VSCode
+- 🎨 Graphic Design
+- 🎬 Video Edit
 - 🌱 Exploring and learning Artificial Intelligence
 
 
@@ -19,6 +20,6 @@ If you have any questions, suggestions, or would like to collaborate, feel free 
 -Email:
 davidus2901@gmail.com
 
--Portofolio: https://davidus2901.github.io/DAVIDUS-Developer/
+-Portofolio: https://davidus2901.github.io/Davidus/
 
 Thank you for visiting my GitHub profile! I look forward to sharing knowledge and collaborating with others.
